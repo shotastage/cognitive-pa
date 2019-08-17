@@ -1,3 +1,5 @@
+import pyautogui
+
 
 if __name__ == "__main__":
-    print("NOW UNDER CONSTRUCTION")
+    pyautogui.alert('This software is now under construction.')
